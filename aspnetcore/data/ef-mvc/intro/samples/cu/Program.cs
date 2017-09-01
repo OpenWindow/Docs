@@ -9,6 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 #region snippet_Usings
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
 using ContosoUniversity.Data;
 #endregion
 
